@@ -1,0 +1,18 @@
+  StackOverflow este poate cel mai folosit site pentru a pune intrebari legate de o problema in programare, iar userii din intreaga lume te pot ajuta, sau poate intampina si ei aceeasi problema ca tine si gasesc raspunsul. 
+   Functionalitate:
+	Login pentru a te autentifica pe site in cazul in care doresti sa intrebi ceva;
+
+        Pagina principala unde gasesti cele mai vizualizate intrebari si un buton de add question care te redirectioneaza la un formular pentru a putea trimite intrebarea ta.
+        Intrebarea ta este trimisa la baza de date printr-un API(probabil) de unde este "fetchuita" si postata pe site, impreuna cu numarul de vizualizari al intrebarii, numarul de raspunsuri si numarul de voturi.
+        Un buton de run code snippet la intrebare si fiecare raspuns, unde este raspuns cu cod pentru a putea rula programul direct din site.
+        Un sistem de vot pentru fiecare intrebare
+
+
+	Un navbar unde ai un inbox cu mesaje de la utilizatori, achievements, help si community
+
+	Optiunea de a cauta intrebari dupa tags, facandu-se un query dupa tags. Se trimita tag-ul catre baza de date si de iau toate intrebarile cu tag-ul respectiv
+		 		
+	Optiunea de a cauta useri dupa numele lor de utilizatori, se trimite userul catre baza de date si se iau toti care corespund cu numele respectiv
+
+        Sectiunea find a job pentru cei care doresc sa isi gaseasca o slujba in domeniu, toate joburile fiind luate dintr-o baza de date. Daca dorim sa aplicam, butonul apply trimite aplicatia spre compania respectiva.
+  
